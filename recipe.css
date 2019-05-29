@@ -1,0 +1,58 @@
+#title {
+  font-family: 'Merienda', cursive;
+  font-size:100px;color: rgb(220,20,60);
+}
+#heading {
+  Font-family:'Satisfy', cursive;
+  font-size: 45px;
+  color: rgb(100,149,237);
+}
+h1 {color: rgb(184,134,11)}
+#photos {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,td{
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  font-family:'Special Elite', cursive;
+  font-size: 17px;
+}
+
+#photoss:hover {background-color:#f5f5f5;}
+
+#recipes {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+#chewy hover{background-color:#f5f5f5;
+}
+
+#ingr{font-size:20px; color: rgb(250,128,114);
+}
+#direc {font-size:20px;color: rgb(250,128,114);
+}
+#ingre {font-size:20px; color: rgb(250,128,114);
+}
+#direct {font-size:20px;color: rgb(250,128,114);
+}
+#ingred {font-size:20px; color: rgb(250,128,114);
+}
+#directi {font-size:20px;color: rgb(250,128,114);
+}
+#chewy{font-size:30px;font-family: 'Indie Flower', cursive;color: rgb(178,34,34);
+}
+#straw{font-size:30px;font-family: 'Indie Flower', cursive;color: rgb(178,34,34);
+}
+#mocha{font-size:30px;font-family: 'Indie Flower', cursive;color: rgb(178,34,34);
+}
+tr{color:	rgb(128,0,128)}
